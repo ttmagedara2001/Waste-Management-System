@@ -1,0 +1,447 @@
+{
+  "bins": [
+    {
+      "id": "BIN001",
+      "location": { "lat": 6.9271, "lng": 79.8612 },
+      "address": "Galle Road, Colombo 03",
+      "zone": "Zone A",
+      "fillLevel": 85,
+      "temperature": 32,
+      "lastCollection": "2025-12-03T08:30:00Z",
+      "status": "critical",
+      "sensorHealth": "online",
+      "capacity": 240
+    },
+    {
+      "id": "BIN002",
+      "location": { "lat": 6.9344, "lng": 79.8428 },
+      "address": "Marine Drive, Colombo 04",
+      "zone": "Zone A",
+      "fillLevel": 45,
+      "temperature": 28,
+      "lastCollection": "2025-12-03T09:15:00Z",
+      "status": "normal",
+      "sensorHealth": "online",
+      "capacity": 240
+    },
+    {
+      "id": "BIN003",
+      "location": { "lat": 6.9147, "lng": 79.9729 },
+      "address": "Rajagiriya Junction",
+      "zone": "Zone B",
+      "fillLevel": 92,
+      "temperature": 35,
+      "lastCollection": "2025-12-02T16:00:00Z",
+      "status": "critical",
+      "sensorHealth": "online",
+      "capacity": 360
+    },
+    {
+      "id": "BIN004",
+      "location": { "lat": 6.8773, "lng": 79.8807 },
+      "address": "Dehiwala Main Street",
+      "zone": "Zone C",
+      "fillLevel": 68,
+      "temperature": 30,
+      "lastCollection": "2025-12-03T07:45:00Z",
+      "status": "normal",
+      "sensorHealth": "online",
+      "capacity": 240
+    },
+    {
+      "id": "BIN005",
+      "location": { "lat": 6.9497, "lng": 79.9185 },
+      "address": "Battaramulla Market",
+      "zone": "Zone B",
+      "fillLevel": 88,
+      "temperature": 33,
+      "lastCollection": "2025-12-02T14:20:00Z",
+      "status": "critical",
+      "sensorHealth": "online",
+      "capacity": 360
+    },
+    {
+      "id": "BIN006",
+      "location": { "lat": 6.9319, "lng": 79.8478 },
+      "address": "Bambalapitiya",
+      "zone": "Zone A",
+      "fillLevel": 25,
+      "temperature": 27,
+      "lastCollection": "2025-12-03T10:00:00Z",
+      "status": "normal",
+      "sensorHealth": "online",
+      "capacity": 240
+    },
+    {
+      "id": "BIN007",
+      "location": { "lat": 6.9156, "lng": 79.8608 },
+      "address": "Wellawatta Beach",
+      "zone": "Zone A",
+      "fillLevel": 78,
+      "temperature": 31,
+      "lastCollection": "2025-12-03T06:30:00Z",
+      "status": "normal",
+      "sensorHealth": "online",
+      "capacity": 240
+    },
+    {
+      "id": "BIN008",
+      "location": { "lat": 6.9063, "lng": 79.8612 },
+      "address": "Bambalapitiya Station",
+      "zone": "Zone A",
+      "fillLevel": 90,
+      "temperature": 34,
+      "lastCollection": "2025-12-02T18:00:00Z",
+      "status": "critical",
+      "sensorHealth": "online",
+      "capacity": 240
+    },
+    {
+      "id": "BIN009",
+      "location": { "lat": 6.9320, "lng": 79.9971 },
+      "address": "Kotte Road",
+      "zone": "Zone B",
+      "fillLevel": 55,
+      "temperature": 29,
+      "lastCollection": "2025-12-03T08:00:00Z",
+      "status": "normal",
+      "sensorHealth": "online",
+      "capacity": 360
+    },
+    {
+      "id": "BIN010",
+      "location": { "lat": 6.8701, "lng": 79.8818 },
+      "address": "Mount Lavinia",
+      "zone": "Zone C",
+      "fillLevel": 82,
+      "temperature": 32,
+      "lastCollection": "2025-12-03T05:45:00Z",
+      "status": "critical",
+      "sensorHealth": "online",
+      "capacity": 240
+    },
+    {
+      "id": "BIN011",
+      "location": { "lat": 6.9532, "lng": 79.8554 },
+      "address": "Maradana Station",
+      "zone": "Zone A",
+      "fillLevel": 40,
+      "temperature": 28,
+      "lastCollection": "2025-12-03T09:30:00Z",
+      "status": "normal",
+      "sensorHealth": "online",
+      "capacity": 360
+    },
+    {
+      "id": "BIN012",
+      "location": { "lat": 6.9271, "lng": 79.9729 },
+      "address": "Nawala Junction",
+      "zone": "Zone B",
+      "fillLevel": 95,
+      "temperature": 36,
+      "lastCollection": "2025-12-02T12:00:00Z",
+      "status": "critical",
+      "sensorHealth": "warning",
+      "capacity": 360
+    },
+    {
+      "id": "BIN013",
+      "location": { "lat": 6.9489, "lng": 79.8618 },
+      "address": "Pettah Market",
+      "zone": "Zone A",
+      "fillLevel": 87,
+      "temperature": 33,
+      "lastCollection": "2025-12-03T07:00:00Z",
+      "status": "critical",
+      "sensorHealth": "online",
+      "capacity": 360
+    },
+    {
+      "id": "BIN014",
+      "location": { "lat": 6.9396, "lng": 79.8536 },
+      "address": "Fort Railway Station",
+      "zone": "Zone A",
+      "fillLevel": 62,
+      "temperature": 30,
+      "lastCollection": "2025-12-03T08:15:00Z",
+      "status": "normal",
+      "sensorHealth": "online",
+      "capacity": 360
+    },
+    {
+      "id": "BIN015",
+      "location": { "lat": 6.8905, "lng": 79.8592 },
+      "address": "Galle Face Green",
+      "zone": "Zone A",
+      "fillLevel": 71,
+      "temperature": 31,
+      "lastCollection": "2025-12-03T09:00:00Z",
+      "status": "normal",
+      "sensorHealth": "online",
+      "capacity": 240
+    },
+    {
+      "id": "BIN016",
+      "location": { "lat": 6.9175, "lng": 79.9315 },
+      "address": "Nugegoda Shopping Complex",
+      "zone": "Zone B",
+      "fillLevel": 84,
+      "temperature": 32,
+      "lastCollection": "2025-12-03T06:00:00Z",
+      "status": "critical",
+      "sensorHealth": "online",
+      "capacity": 360
+    },
+    {
+      "id": "BIN017",
+      "location": { "lat": 6.8588, "lng": 79.8846 },
+      "address": "Ratmalana Airport Road",
+      "zone": "Zone C",
+      "fillLevel": 38,
+      "temperature": 27,
+      "lastCollection": "2025-12-03T10:30:00Z",
+      "status": "normal",
+      "sensorHealth": "online",
+      "capacity": 240
+    },
+    {
+      "id": "BIN018",
+      "location": { "lat": 6.9654, "lng": 79.9243 },
+      "address": "Kolonnawa Junction",
+      "zone": "Zone B",
+      "fillLevel": 76,
+      "temperature": 31,
+      "lastCollection": "2025-12-03T07:30:00Z",
+      "status": "normal",
+      "sensorHealth": "online",
+      "capacity": 360
+    },
+    {
+      "id": "BIN019",
+      "location": { "lat": 6.9351, "lng": 79.8503 },
+      "address": "Lotus Tower Area",
+      "zone": "Zone A",
+      "fillLevel": 91,
+      "temperature": 34,
+      "lastCollection": "2025-12-02T17:30:00Z",
+      "status": "critical",
+      "sensorHealth": "online",
+      "capacity": 360
+    },
+    {
+      "id": "BIN020",
+      "location": { "lat": 6.8971, "lng": 79.9075 },
+      "address": "Borella Cemetery Road",
+      "zone": "Zone B",
+      "fillLevel": 50,
+      "temperature": 29,
+      "lastCollection": "2025-12-03T09:45:00Z",
+      "status": "normal",
+      "sensorHealth": "online",
+      "capacity": 240
+    }
+  ],
+  "trucks": [
+    {
+      "id": "TRUCK001",
+      "driver": "Kamal Perera",
+      "status": "collecting",
+      "location": { "lat": 6.9271, "lng": 79.8612 },
+      "route": "Route A",
+      "capacity": 5000,
+      "currentLoad": 3200,
+      "assignedBins": ["BIN001", "BIN002", "BIN006", "BIN007"],
+      "lastUpdate": "2025-12-04T10:15:00Z"
+    },
+    {
+      "id": "TRUCK002",
+      "driver": "Sunil Fernando",
+      "status": "en-route",
+      "location": { "lat": 6.9147, "lng": 79.9729 },
+      "route": "Route B",
+      "capacity": 5000,
+      "currentLoad": 1800,
+      "assignedBins": ["BIN003", "BIN005", "BIN009", "BIN012"],
+      "lastUpdate": "2025-12-04T10:12:00Z"
+    },
+    {
+      "id": "TRUCK003",
+      "driver": "Nimal Silva",
+      "status": "idle",
+      "location": { "lat": 6.9396, "lng": 79.8536 },
+      "route": "Route C",
+      "capacity": 7000,
+      "currentLoad": 0,
+      "assignedBins": ["BIN004", "BIN010", "BIN017"],
+      "lastUpdate": "2025-12-04T10:00:00Z"
+    },
+    {
+      "id": "TRUCK004",
+      "driver": "Ranjith Kumara",
+      "status": "collecting",
+      "location": { "lat": 6.9489, "lng": 79.8618 },
+      "route": "Route A",
+      "capacity": 5000,
+      "currentLoad": 4200,
+      "assignedBins": ["BIN008", "BIN013", "BIN014", "BIN019"],
+      "lastUpdate": "2025-12-04T10:18:00Z"
+    },
+    {
+      "id": "TRUCK005",
+      "driver": "Chaminda Rajapaksa",
+      "status": "en-route",
+      "location": { "lat": 6.9175, "lng": 79.9315 },
+      "route": "Route B",
+      "capacity": 5000,
+      "currentLoad": 2500,
+      "assignedBins": ["BIN011", "BIN016", "BIN018", "BIN020"],
+      "lastUpdate": "2025-12-04T10:10:00Z"
+    }
+  ],
+  "recentActivities": [
+    {
+      "id": 1,
+      "type": "collection",
+      "message": "Bin #BIN002 collected successfully",
+      "binId": "BIN002",
+      "truckId": "TRUCK001",
+      "timestamp": "2025-12-04T09:15:00Z"
+    },
+    {
+      "id": 2,
+      "type": "alert",
+      "message": "Bin #BIN012 temperature warning (36°C)",
+      "binId": "BIN012",
+      "timestamp": "2025-12-04T09:10:00Z"
+    },
+    {
+      "id": 3,
+      "type": "route",
+      "message": "Truck #TRUCK005 started Route B",
+      "truckId": "TRUCK005",
+      "timestamp": "2025-12-04T09:00:00Z"
+    },
+    {
+      "id": 4,
+      "type": "collection",
+      "message": "Bin #BIN006 collected successfully",
+      "binId": "BIN006",
+      "truckId": "TRUCK001",
+      "timestamp": "2025-12-04T08:50:00Z"
+    },
+    {
+      "id": 5,
+      "type": "alert",
+      "message": "Bin #BIN003 critically full (92%)",
+      "binId": "BIN003",
+      "timestamp": "2025-12-04T08:45:00Z"
+    },
+    {
+      "id": 6,
+      "type": "maintenance",
+      "message": "Sensor #BIN012 requires inspection",
+      "binId": "BIN012",
+      "timestamp": "2025-12-04T08:30:00Z"
+    },
+    {
+      "id": 7,
+      "type": "collection",
+      "message": "Bin #BIN014 collected successfully",
+      "binId": "BIN014",
+      "truckId": "TRUCK004",
+      "timestamp": "2025-12-04T08:15:00Z"
+    },
+    {
+      "id": 8,
+      "type": "route",
+      "message": "Truck #TRUCK001 started Route A",
+      "truckId": "TRUCK001",
+      "timestamp": "2025-12-04T08:00:00Z"
+    },
+    {
+      "id": 9,
+      "type": "alert",
+      "message": "Bin #BIN019 critically full (91%)",
+      "binId": "BIN019",
+      "timestamp": "2025-12-04T07:45:00Z"
+    },
+    {
+      "id": 10,
+      "type": "collection",
+      "message": "Bin #BIN015 collected successfully",
+      "binId": "BIN015",
+      "truckId": "TRUCK001",
+      "timestamp": "2025-12-04T07:30:00Z"
+    }
+  ],
+  "analytics": {
+    "fillRateHistory": [
+      { "time": "00:00", "zoneA": 45, "zoneB": 52, "zoneC": 38 },
+      { "time": "04:00", "zoneA": 58, "zoneB": 63, "zoneC": 47 },
+      { "time": "08:00", "zoneA": 72, "zoneB": 78, "zoneC": 61 },
+      { "time": "12:00", "zoneA": 85, "zoneB": 88, "zoneC": 75 },
+      { "time": "16:00", "zoneA": 91, "zoneB": 94, "zoneC": 82 },
+      { "time": "20:00", "zoneA": 68, "zoneB": 71, "zoneC": 59 },
+      { "time": "24:00", "zoneA": 45, "zoneB": 52, "zoneC": 38 }
+    ],
+    "routeEfficiency": [
+      { "truck": "TRUCK001", "distance": 35, "waste": 4200 },
+      { "truck": "TRUCK002", "distance": 42, "waste": 3800 },
+      { "truck": "TRUCK003", "distance": 28, "waste": 3200 },
+      { "truck": "TRUCK004", "distance": 38, "waste": 4500 },
+      { "truck": "TRUCK005", "distance": 45, "waste": 4100 }
+    ],
+    "zoneWasteProduction": [
+      { "zone": "Zone A", "production": 12500, "bins": 10 },
+      { "zone": "Zone B", "production": 15800, "bins": 7 },
+      { "zone": "Zone C", "production": 8200, "bins": 3 }
+    ]
+  },
+  "alerts": [
+    {
+      "id": 1,
+      "type": "critical",
+      "message": "Bin #BIN003 critically full (92%)",
+      "binId": "BIN003",
+      "timestamp": "2025-12-04T09:30:00Z",
+      "read": false
+    },
+    {
+      "id": 2,
+      "type": "warning",
+      "message": "Sensor #BIN012 battery low",
+      "binId": "BIN012",
+      "timestamp": "2025-12-04T09:15:00Z",
+      "read": false
+    },
+    {
+      "id": 3,
+      "type": "critical",
+      "message": "Bin #BIN019 critically full (91%)",
+      "binId": "BIN019",
+      "timestamp": "2025-12-04T08:45:00Z",
+      "read": true
+    },
+    {
+      "id": 4,
+      "type": "warning",
+      "message": "Bin #BIN012 temperature warning (36°C)",
+      "binId": "BIN012",
+      "timestamp": "2025-12-04T08:30:00Z",
+      "read": false
+    }
+  ],
+  "settings": {
+    "thresholds": {
+      "criticalFillLevel": 80,
+      "warningFillLevel": 70,
+      "temperatureWarning": 35,
+      "temperatureCritical": 40
+    },
+    "notifications": {
+      "email": true,
+      "sms": false,
+      "push": true
+    }
+  }
+}
