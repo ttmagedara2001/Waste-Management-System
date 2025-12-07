@@ -7,6 +7,7 @@ const ToastNotification = ({ toast, onClose }) => {
 
   useEffect(() => {
     // Trigger entry animation
+    
     setTimeout(() => setIsVisible(true), 10);
 
     // Auto-dismiss after duration
